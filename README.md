@@ -7,4 +7,4 @@ This project represents a significant stride in optimizing the promotion process
 
 Dataset used : https://www.kaggle.com/datasets/muhammadimran112233/employees-evaluation-for-promotion
 
-The ppt attatched provides information on the pre-processing done and model used.
+The ppt and notebook attatched provides information on the pre-processing done and model used.
